@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/SachinMaurya145/Todos-List.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/SachinMaurya145/Todos-List.git/static/js/main.03afd053.chunk.js",
-    "main.js.map": "/SachinMaurya145/Todos-List.git/static/js/main.03afd053.chunk.js.map",
-    "runtime-main.js": "/SachinMaurya145/Todos-List.git/static/js/runtime-main.43d5addb.js",
-    "runtime-main.js.map": "/SachinMaurya145/Todos-List.git/static/js/runtime-main.43d5addb.js.map",
-    "static/js/2.cc81042e.chunk.js": "/SachinMaurya145/Todos-List.git/static/js/2.cc81042e.chunk.js",
-    "static/js/2.cc81042e.chunk.js.map": "/SachinMaurya145/Todos-List.git/static/js/2.cc81042e.chunk.js.map",
-    "static/js/3.1644e2d7.chunk.js": "/SachinMaurya145/Todos-List.git/static/js/3.1644e2d7.chunk.js",
-    "static/js/3.1644e2d7.chunk.js.map": "/SachinMaurya145/Todos-List.git/static/js/3.1644e2d7.chunk.js.map",
-    "index.html": "/SachinMaurya145/Todos-List.git/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/SachinMaurya145/Todos-List.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.cc81042e.chunk.js.LICENSE.txt": "/SachinMaurya145/Todos-List.git/static/js/2.cc81042e.chunk.js.LICENSE.txt"
+    "main.css": "/Todos-List/static/css/main.a617e044.chunk.css",
+    "main.js": "/Todos-List/static/js/main.03afd053.chunk.js",
+    "main.js.map": "/Todos-List/static/js/main.03afd053.chunk.js.map",
+    "runtime-main.js": "/Todos-List/static/js/runtime-main.2108e819.js",
+    "runtime-main.js.map": "/Todos-List/static/js/runtime-main.2108e819.js.map",
+    "static/js/2.cc81042e.chunk.js": "/Todos-List/static/js/2.cc81042e.chunk.js",
+    "static/js/2.cc81042e.chunk.js.map": "/Todos-List/static/js/2.cc81042e.chunk.js.map",
+    "static/js/3.1644e2d7.chunk.js": "/Todos-List/static/js/3.1644e2d7.chunk.js",
+    "static/js/3.1644e2d7.chunk.js.map": "/Todos-List/static/js/3.1644e2d7.chunk.js.map",
+    "index.html": "/Todos-List/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Todos-List/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cc81042e.chunk.js.LICENSE.txt": "/Todos-List/static/js/2.cc81042e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.43d5addb.js",
+    "static/js/runtime-main.2108e819.js",
     "static/js/2.cc81042e.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.03afd053.chunk.js"
